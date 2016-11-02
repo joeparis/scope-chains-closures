@@ -1,1 +1,3 @@
-console.log('foo');
+function foo() {
+    var bar;
+}
